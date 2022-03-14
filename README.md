@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ffb7c2&height=400&section=header&text=newjinny&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#D38312"&height=400&section=header&text=newjinny&fontSize=90)
 <!--
 **newjinny/newjinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
