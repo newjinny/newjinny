@@ -1,22 +1,10 @@
-# Hi there! 👋 
-<!--  
-*A README made with **Markdown**, [great ideas](https://github.com/bugahontas/bugahontas/blob/main/third-party-links.md) and ♥!*
+*Hi there ♥*
+ 
 
-### <🌹> About me </🌹>
-
-My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
-- Share my codes;
-- Learn more about front-end technologies;
-- Contribute to third-party projects;
-- Get inspiration and new ideas!
-
-Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
-
----
 
 ### <🛠> Tech Stack </🛠>
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIMP badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![React badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black) ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![TypeScript badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) ![Sass badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) ![MUI badge](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
 
 ---
 
@@ -39,4 +27,4 @@ Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositor
 ------
 
 Credit: [Candida18](https://github.com/Candida18)
-Last Edited on: 25/12/2021. -->
+Last Edited on: 25/12/2021.
